@@ -2,6 +2,7 @@
   <main class="py-2">
     <section class="py-4">
       <Introduction />
+      <SocialMediaIcons />
     </section>
   </main>
 </template>
