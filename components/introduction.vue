@@ -1,5 +1,5 @@
 <template>
-  <div class="space-y-4 p-4 text-zinc-800 dark:!text-green-300">
+  <div class="space-y-5 p-4 text-zinc-800 dark:!text-green-300">
     <p class="welcome">Welcome to {{ appConfig.site.name }}&apos;s!</p>
     <p class="font-light">
       I&apos;m a full-stack developer who loves open-source. I enjoy building
