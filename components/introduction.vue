@@ -8,21 +8,20 @@
     <p class="font-light">
       My favorite tech stack for building web apps includes
       <a href="https://nextjs.org/" target="_blank" class="font-semibold">
-        Nextjs
+        Nextjs,
       </a>
-      ,
       <a href="https://react.dev/" target="_blank" class="font-semibold">
-        React
+        React,
       </a>
-      ,
+
       <a
         href="https://www.typescriptlang.org/"
         target="_blank"
         class="font-semibold"
       >
-        TypeScript
+        TypeScript,
       </a>
-      ,
+      and
       <a href="https://bun.sh/" target="_blank" class="font-semibold"> Bun </a>
       for the toolkit and
       <a href="https://hono.dev/" target="_blank" class="font-semibold">
