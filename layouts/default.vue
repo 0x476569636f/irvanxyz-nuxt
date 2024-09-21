@@ -10,4 +10,8 @@
 
 <script lang="ts" setup></script>
 
-<style></style>
+<style>
+body {
+  font-family: "Inter", sans-serif;
+}
+</style>
