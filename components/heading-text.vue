@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="text-lg font-semibold text-zinc-800 dark:text-green-300">
+    <h1 class="text-lg font-semibold">
       <slot />
     </h1>
     <h2 v-if="subtext" class="font-light">

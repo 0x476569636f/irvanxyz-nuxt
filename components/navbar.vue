@@ -2,9 +2,7 @@
   <nav class="select-none bg-background px-18">
     <div class="flex justify-between">
       <NuxtLink to="/" class="flex items-center">
-        <h1 class="text-lg font-bold text-zinc-900 dark:text-green-300">
-          ./{{ appConfig.site.name }}
-        </h1>
+        <h1 class="text-lg font-bold">./{{ appConfig.site.name }}</h1>
       </NuxtLink>
       <div class="flex gap-4">
         <ul class="flex items-center space-x-4 text-sm">
