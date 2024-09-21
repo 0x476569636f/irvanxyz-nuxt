@@ -15,4 +15,8 @@ body {
   font-family: "Inter", sans-serif;
   @apply text-zinc-500 dark:text-green-300;
 }
+
+.welcome {
+  @apply font-light text-zinc-500 dark:text-green-300;
+}
 </style>
