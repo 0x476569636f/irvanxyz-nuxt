@@ -3,7 +3,7 @@
     <div class="flex justify-between">
       <NuxtLink to="/" class="flex items-center">
         <h1 class="text-lg font-bold text-zinc-900 dark:text-green-300">
-          ./Irvan
+          ./{{ appConfig.site.name }}
         </h1>
       </NuxtLink>
       <div class="flex gap-4">
@@ -21,6 +21,8 @@
   </nav>
 </template>
 
-<script lang="ts" setup></script>
+<script lang="ts" setup>
+const appConfig = useAppConfig();
+</script>
 
 <style></style>
