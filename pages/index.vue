@@ -4,6 +4,11 @@
       <Introduction />
       <SocialMediaIcons />
     </section>
+    <section class="space-y-4 py-4">
+      <div class="px-3">
+        <HeadingText>Projects</HeadingText>
+      </div>
+    </section>
   </main>
 </template>
 
