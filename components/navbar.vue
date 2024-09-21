@@ -17,6 +17,7 @@
             <p>Dashboard</p>
           </NuxtLink>
         </ul>
+        <ColorModeToggle />
       </div>
     </div>
   </nav>
