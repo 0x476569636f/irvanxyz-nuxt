@@ -7,9 +7,7 @@
         </h1>
       </NuxtLink>
       <div class="flex gap-4">
-        <ul
-          class="flex items-center space-x-4 text-sm text-zinc-500 dark:text-green-300"
-        >
+        <ul class="flex items-center space-x-4 text-sm">
           <NuxtLink to="/" class="hover:underline">
             <p>Home</p>
           </NuxtLink>
